@@ -21,7 +21,7 @@
 
 ---
 
-### 🤖 Core Projects (Private Repositories / Showcase)
+### 🤖 Core Projects 
 * **Robocon 2026 Egypt Champion Robot:** Designed and integrated custom PCBs, managed power distribution, and handled low-level hardware integration for both autonomous and manual robotic platforms.
 * **R9: Modular UGV Platform:** Contributed to the development of a modular unmanned ground vehicle for autonomous navigation and remote operations.
 * **Optimo & Shato Robotics Platforms:** Designed custom embedded electronics and configured ROS 2 communication nodes for national robotics exhibitions. 
