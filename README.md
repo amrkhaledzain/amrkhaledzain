@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr Khaled Zain
+### Mechatronics & Robotics Engineering Student | Class of 2028
 
-<!--
-**amrkhaledzain/amrkhaledzain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build autonomous systems, bridge the gap between hardware and software, and love bringing robots to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Robotics & Software:** ROS 2 (Humble), micro-ROS, Robot Localization, Navigation2, TF Library
+- **Embedded Systems:** C/C++, ATmega32, Arduino, SPI/I2C/UART Protocols, Firmware Development
+- **Hardware :** Altium Designer (PCB Design & Component Selection)
+- **Key Experience:** Heavy Machinery Maintenance Intern at Petrojet
+
+---
+
+### 🤖 Featured Projects
+
+* **[R9: Modular UGV Platform](رابط_المشروع_هنا)** - Autonomous navigation and remote operation platform.
+* **[Optimo & Shato Robots](رابط_المشروع_هنا)** - Prepared for Alex Duino Robotics Carnival & Ebdaa Competition.
+
+---
+
+📬 **How to reach me:** www.linkedin.com/in/amr-khaled-51b9132a1 | amr.khaled.zain@gmail.com
