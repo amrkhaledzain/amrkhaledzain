@@ -1,31 +1,36 @@
 # 👋 Hi, I'm Amr Khaled Zain
-### 🏆 Robocon Egypt 2026 Champion (Electrical Member) & International Finalist (Hong Kong)
-**Mechatronics & Robotics Engineering Student at Alexandria University | Class of 2028**
+### 🚀 Mechatronics Engineer & Embedded Systems Developer
+**Alexandria University | Class of 2028**
 
-🚀 Building advanced autonomous systems, bridging the gap between hardware and software. Currently preparing to represent Egypt at the **ABU Robocon 2026 International Finals in Hong Kong** as an **Electrical Member** of the **M.I.A Robotics Team**.
+I am a Mechatronics and Robotics Engineering student passionate about bridging the gap between hardware, software, and industrial systems. From developing bare-metal firmware and custom PCBs to designing high-performance autonomous systems and maintaining heavy machinery, I build reliable, end-to-end engineering solutions.
 
----
-
-### 🥇 Key Achievements
-* **Champion of Robocon Egypt 2026 (Electrical Member):** Secured 1st place nationally with **M.I.A Robotics Team**, designing and implementing high-performance electrical systems and power distribution, qualifying for the international stage in Hong Kong.
-* **National Competitor:** Developed high-performance robotics platforms for major national contests, including Alex Duino Robotics Carnival & Ebdaa Competition.
+🏆 **Robocon Egypt 2026 Champion (Electrical Member) & International Finalist (Hong Kong)** - Designed and integrated high-power electrical distribution and control systems with the **M.I.A Robotics Team**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Expertise & Stack
 
-* **Robotics & Software:** ROS 2 (Jazzy), micro-ROS, Robot Localization, Navigation2, TF Library
-* **Embedded Systems:** C/C++, ATmega32, Arduino, SPI/I2C/UART Protocols, Firmware Development
-* **Hardware & CAD:** Altium Designer (PCB Design & Component Selection), SolidWorks (3D Mechanical Assembly & Design)
-* **Key Experience:** Heavy Machinery Maintenance Intern at Petrojet
-
----
-
-### 🤖 Core Projects 
-* **Robocon 2026 Egypt Champion Robot:** Designed and integrated custom PCBs, managed power distribution, and handled low-level hardware integration for both autonomous and manual robotic platforms.
-* **R9: Modular UGV Platform:** Contributed to the development of a modular unmanned ground vehicle for autonomous navigation and remote operations.
-* **Optimo & Shato Robotics Platforms:** Designed custom embedded electronics and configured ROS 2 communication nodes for national robotics exhibitions. 
+* **Embedded Systems & Firmware:** Bare-metal C/C++, ATmega32, Arduino, SPI/I2C/UART Protocols, Driver Development, Register-level programming.
+* **Hardware & PCB Design:** Altium Designer (Schematic Capture, Multilayer PCB Layout, Component Selection), Soldering & Hardware Prototyping.
+* **Robotics Frameworks:** ROS 2 (Jazzy/Humble), micro-ROS, Navigation2, Robot Localization, TF Coordinate Transforms.
 
 ---
 
-📬 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/amr-khaled-51b9132a1) | [amr.khaled.zain@gmail.com](mailto:amr.khaled.zain@gmail.com)
+### 💼 Professional Experience
+
+#### ⚙️ Engineering Intern | Petrojet Company
+*Assisted with Heavy Machinery and Industrial Equipment Maintenance.*
+* Gained hands-on experience in hydraulic systems, preventive maintenance protocols, and mechanical troubleshooting in demanding industrial environments.
+* Bridged academic engineering concepts with real-world, large-scale industrial operations.
+
+---
+
+### 🤖 Highlighted Projects 
+
+* **Robocon 2026 Egypt Champion Robot:** Designed industrial-grade power distribution boards, integrated custom PCBs, and managed robust electrical wiring to handle high-current actuators under extreme competitive conditions.
+* **Modular UGV Platform (R9):** Co-developed a modular unmanned ground vehicle for autonomous navigation. Focused on hardware integration, micro-ROS communication, and sensor fusion.
+* **Custom Embedded Drivers:** Developed register-level SPI and Timer drivers for ATmega32 to achieve precise, real-time control of DC and Servo motors. 
+
+---
+
+📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/amr-khaled-51b9132a1) | [amr.khaled.zain@gmail.com](mailto:amr.khaled.zain@gmail.com)
