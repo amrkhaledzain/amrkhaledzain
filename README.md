@@ -1,35 +1,35 @@
 # 👋 Hi, I'm Amr Khaled Zain
-### 🚀 Mechatronics Engineer & Embedded Systems Developer
+### 🚀 Robotics & Embedded Systems Engineer
 **Alexandria University | Class of 2028**
 
-I am a Mechatronics and Robotics Engineering student passionate about bridging the gap between hardware, software, and industrial systems. From developing bare-metal firmware and custom PCBs to designing high-performance autonomous systems and maintaining heavy machinery, I build reliable, end-to-end engineering solutions.
+I am an engineering student passionate about bridging the gap between hardware, software, and autonomous systems. From developing bare-metal firmware and custom PCBs to configuring high-performance autonomous navigation and maintaining complex machinery, I build reliable, end-to-end engineering solutions.
 
-🏆 **Robocon Egypt 2026 Champion (Electrical Member) & International Finalist (Hong Kong)** - Designed and integrated high-power electrical distribution and control systems with the **M.I.A Robotics Team**.
+🏆 **Robocon Egypt 2026 Champion & International Finalist (Hong Kong)** - Engineered full-stack robotics architectures with the **M.I.A Robotics Team**, bridging custom multi-layer PCBs and firmware with autonomous ROS2 navigation and control systems.
 
 ---
 
 ### 🛠️ Technical Expertise & Stack
 
-* **Embedded Systems & Firmware:** Bare-metal C/C++, ATmega32, Arduino, SPI/I2C/UART Protocols, Driver Development, Register-level programming.
-* **Hardware & PCB Design:** Altium Designer (Schematic Capture, Multilayer PCB Layout, Component Selection), Soldering & Hardware Prototyping.
-* **Robotics Frameworks:** ROS 2 (Jazzy/Humble), micro-ROS, Navigation2, Robot Localization, TF Coordinate Transforms.
+* **Embedded Systems & Firmware:** Bare-metal C/C++, STM32, ESP32, ATmega32, Register-level programming, Driver Development (Timers, PWM, ADC), SPI/I2C/UART Protocols.
+* **Hardware & PCB Design:** Altium Designer (Schematic Capture, Multilayer Routing, Component Selection), Signal Isolation, Hardware Prototyping & Soldering.
+* **Robotics Frameworks:** ROS 2, micro-ROS, Navigation2 (Nav2), MoveIt 2, tf2 Coordinate Transforms.
 
 ---
 
 ### 💼 Professional Experience
 
 #### ⚙️ Engineering Intern | Petrojet Company
-*Assisted with Heavy Machinery and Industrial Equipment Maintenance.*
-* Gained hands-on experience in hydraulic systems, preventive maintenance protocols, and mechanical troubleshooting in demanding industrial environments.
-* Bridged academic engineering concepts with real-world, large-scale industrial operations.
+*June 2024 – June 2025*
+* Gained hands-on experience in industrial machinery maintenance, hydraulic systems, and preventive troubleshooting in demanding environments.
+* Bridged academic engineering concepts with real-world, large-scale industrial operations and quality control.
 
 ---
 
 ### 🤖 Highlighted Projects 
 
-* **Robocon 2026 Egypt Champion Robot:** Designed industrial-grade power distribution boards, integrated custom PCBs, and managed robust electrical wiring to handle high-current actuators under extreme competitive conditions.
-* **Modular UGV Platform (R9):** Co-developed a modular unmanned ground vehicle for autonomous navigation. Focused on hardware integration, micro-ROS communication, and sensor fusion.
-* **Custom Embedded Drivers:** Developed register-level SPI and Timer drivers for ATmega32 to achieve precise, real-time control of DC and Servo motors. 
+* **Robocon 2026 Egypt Champion Robot:** Co-developed the full-stack electrical and software architecture; designed custom multi-layer PCBs, isolated digital/analog signals, and integrated low-level embedded control for precise match execution.
+* **Modular UGV Platform:** Co-developed an unmanned ground vehicle for autonomous navigation. Focused on hardware-software integration, Regulated Pure Pursuit tuning, micro-ROS communication, and static/dynamic coordinate transforms (tf2).
+* **Custom Embedded Drivers:** Developed register-level SPI, Timer, and PWM drivers for microcontrollers to achieve precise, real-time control of actuators and sensor data routing. 
 
 ---
 
