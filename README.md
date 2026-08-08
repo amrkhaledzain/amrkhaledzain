@@ -13,7 +13,11 @@ I am an engineering student passionate about bridging the gap between hardware, 
 * **Embedded Systems & Firmware:** Bare-metal C/C++, STM32, ESP32, ATmega32, Register-level programming, Driver Development (Timers, PWM, ADC), SPI/I2C/UART Protocols.
 * **Hardware & PCB Design:** Altium Designer (Schematic Capture, Multilayer Routing, Component Selection), Signal Isolation, Hardware Prototyping & Soldering.
 * **Robotics Frameworks:** ROS 2, micro-ROS, Navigation2 (Nav2), MoveIt 2, tf2 Coordinate Transforms.
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Altium](https://img.shields.io/badge/Altium-A200FF?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ---
 
 ### 💼 Professional Experience
