@@ -53,7 +53,6 @@ I am an engineering student passionate about bridging the gap between hardware, 
 
 *   🧳 **[Smart Luggage Carrying Assistant](https://github.com/amrkhaledzain/smart_luggage_carrying_assistant) (IEEE Competition Project):** An autonomous vision-guided assistant designed for dynamic indoor human-following and payload transport. Integrated **ROS 2** and **OpenCV** for ArUco marker detection/tracking with low-level **micro-ROS** motor velocity control.
 *   🏆 **Robocon 2026 Egypt Champion Robot:** Co-developed the full-stack electrical and software architecture; designed custom multi-layer PCBs, isolated digital/analog signals, and integrated low-level embedded control for precise match execution.
-*   🚗 **Modular UGV Platform:** Co-developed an unmanned ground vehicle for autonomous navigation. Focused on hardware-software integration, Regulated Pure Pursuit tuning, micro-ROS communication, and static/dynamic coordinate transforms (tf2).
 *   ⚡ **Custom Embedded Drivers:** Developed register-level SPI, Timer, and PWM drivers for microcontrollers to achieve precise, real-time control of actuators and sensor data routing.
 
 ---
